@@ -4,8 +4,8 @@
 
 ## Repositories
 
-* [APIKit Python](../apikit-python) — Server-side implementation
-* [APIKit TypeScript](../apikit-ts) — Client-side implementation
+* [APIKit Python](https://github.com/amine-guissouma/apikit-python) — Server-side implementation
+* [APIKit TypeScript](https://github.com/amine-guissouma/apikit-ts) — Client-side implementation
 
 ## Documentation
 
